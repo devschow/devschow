@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-driven projects involving data mining, deep learning, and visual storytelling with real-world datasets.<br>🤝 Eager to collaborate on innovative projects that make a real-world difference.<br>🌱 I’m currently learning Deep Learning and its practical use cases in AI-driven solutions.<br>📫 Reach me at devarshic3@gmail.com<br>
+🔭 I’m currently working on AI-driven projects involving data mining, deep learning, and visual storytelling with real-world datasets.<br>🤝 Eager to collaborate on innovative projects that make a real-world difference.<br>🌱 I’m currently learning Deep Learning and its practical use cases in AI-driven solutions.<br>
 
 
 ## 🌐 Socials:
